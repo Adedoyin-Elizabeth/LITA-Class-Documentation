@@ -62,7 +62,7 @@ This section covers key findings and actionable insights across regions, product
 
 ## Regional Performance Analysis
 The dataset captures sales across multiple regions, allowing us to identify top-performing areas and markets.
-# Analysis
+### Data Visualiz
 North Central (Federal Capital Territory) stands out as the highest-revenue region.
 Create an interactive dashboard using Power BI or Excel dashboards to present key insights dynamically.
 
