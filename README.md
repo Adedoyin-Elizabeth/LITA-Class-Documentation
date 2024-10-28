@@ -19,14 +19,15 @@ The results from this project will provide valuable insights into customer behav
 
 ### Objectives:
 The goal of this project is to conduct a comprehensive analysis of the dataset to uncover trends, identify challenges, and provide actionable recommendations for business growth. Below are the key objectives:
-1. Regional and Market Performance: Analyse the region and markets that generate the highest and lowest revenue, the underperforming regions that need attention
+- Regional and Market Performance: Analyse the region and markets that generate the highest and lowest revenue, the underperforming regions that need attention
 
-2. Product Line Performance: Determine the product categories (e.g., service plans, parts) that generate the most revenue and units sold, the certain products that are more popular in specific markets or regions
+- Product Line Performance: Determine the product categories (e.g., service plans, parts) that generate the most revenue and units sold, the certain products that are more popular in specific markets or regions
 
-3. Customer Purchase Behavior:Identify different transaction categories (low, medium, high) impact revenue, customers purchasing higher quantities on specific days (e.g., weekends vs. workdays)
+- Customer Purchase Behavior:Identify different transaction categories (low, medium, high) impact revenue, customers purchasing higher quantities on specific days (e.g., weekends vs. workdays)
 
-4.Temporal Analysis: Identify how sales trends vary across fiscal periods, the seasonal patterns that impact revenue generation or sales volume
-5.Data Quality Issues and Improvements: Clean and manage missing or redundant data to improve the quality of insights, Generate new features if necessary (e.g., average revenue per transaction).
+- Temporal Analysis: Identify how sales trends vary across fiscal periods, the seasonal patterns that impact revenue generation or sales volume
+
+- Data Quality Issues and Improvements: Clean and manage missing or redundant data to improve the quality of insights, Generate new features if necessary (e.g., average revenue per transaction).
 
 ### Data source
 The primary source of used is Data sales.CVS which was obtained from The Incubator Hub
@@ -53,17 +54,17 @@ The following actions were performed:
 
 ### Exploratory Data Analysis
 The purpose of this EDA is to gain a preliminary understanding of the dataset through statistical summaries and visualizations. This step ensures data quality, helps identify trends, and provides a foundation for more advanced analysis.
-What is the aggregate revenue and units sold by region, market, and line of business.
-Compare performance across different transaction categories.
-Visualize trends over time to identify seasonality or fluctuations across fiscal periods.
-Segment markets by performance and categorize transactions to reveal behavioral trends.
+- What is the aggregate revenue and units sold by region, market, and line of business.
+- Compare performance across different transaction categories.
+- Visualize trends over time to identify seasonality or fluctuations across fiscal periods.
+- Segment markets by performance and categorize transactions to reveal behavioral trends.
 
-### Data Analysis
+### Data Analysis and  Data Visualization
 This section covers key findings and actionable insights across regions, product lines, and sales trends. Using aggregated metrics, comparative analysis, and visualizations, the objective is to provide a business narrative based on data.
 
 ### Regional Performance Analysis
 The dataset captures sales across multiple regions, allowing us to identify top-performing areas and markets.
-### Data Visualization
+
 North Central (Federal Capital Territory) stands out as the highest-revenue region.
 Revenue by Region (Bar Chart):
 
