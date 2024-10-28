@@ -67,7 +67,7 @@ The dataset captures sales across multiple regions, allowing us to identify top-
 
 North Central (Federal Capital Territory) stands out as the highest-revenue region.
 Revenue by Region (Bar Chart):
-
+![Images/revenue by region.png]
 This chart shows revenue distribution across different geographical regions.
 The South West and North East regions seem to generate the most revenue, while North Central has the lowest performance.
 Revenue by Model (Horizontal Bar Chart):
